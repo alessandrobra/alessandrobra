@@ -1,16 +1,14 @@
-### Hi there 👋
+##Olá! eu sou Alessandro Brasil
 
-<!--
-**alessandrobra/alessandrobra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Não  trabalho atualmente,estou a procura de uma oportunidade 
+- 🌱 Estou aprendendo Ciência de Dados,Python,Git 
+- 💬 Contate-me nesse Email: alessandrobr.ab@gmail.com
+- 😄 Pronouns: Ele/Dele
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrobra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrobra&layout=compact&langs_count=16&theme=tokyonight"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</div>

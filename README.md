@@ -2,7 +2,7 @@
 
 
 - 🔭 Não  trabalho atualmente,estou a procura de uma oportunidade 
-- 🌱 Estou aprendendo front end  
+- 🌱 Estou aprendendo area de dados  
 - 💬 Contate-me nesse Email: alessandrobr.ab@gmail.com
 - 😄 Pronouns: Ele/Dele
 <div>

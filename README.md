@@ -1,7 +1,7 @@
 ##Olá! eu sou Alessandro Brasil
 
 
-- 🔭 Não  trabalho atualmente,estou a procura de uma oportunidade 
+- 🔭 Não  trabalho na area de TI atualmente,estou a procura de uma oportunidade 
 - 🌱 Estou em processo de aprendizado  
 - 💬 Contate-me nesse Email: alessandrobr.ab@gmail.com
 - 😄 Pronouns: Ele/Dele

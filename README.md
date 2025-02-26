@@ -1,7 +1,7 @@
 ##Olá! eu sou Alessandro Brasil
 
 
-- 🔭 Em transição de carreira,Em busca da primeira oportunidade 
+- 🔭 Estudante universitario ,Em busca de uma  oportunidade 
 - 🌱 Estou em processo de aprendizado  
 - 💬 Contate-me nesse Email: alessandrobr.ab@gmail.com
 - 😄 Pronouns: Ele/Dele
